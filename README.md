@@ -16,5 +16,5 @@ $ npm install @arcanus55/arcanus55_virtual_keyboard_for_websites
 [Pinterest](https://www.pinterest.com/arcanus55/) | 
 [NPM](https://www.npmjs.com/~arcanus55) | 
 [Github](https://github.com/arcanus55) | 
-[Redit](https://www.reddit.com/user/arcanus55) | 
+[Reddit](https://www.reddit.com/user/arcanus55) | 
 [Medium](https://medium.com/@arcanus55)
